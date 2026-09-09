@@ -861,19 +861,6 @@ function Support() {
             your university’s counseling service. Bringing your history may help
             explain what you have been experiencing.
           </p>
-          <a
-            className="text-button"
-            href="https://www.nimh.nih.gov/health/find-help"
-            target="_blank"
-            rel="noreferrer"
-          >
-            Read about finding help
-            <ArrowRight size={15} />
-          </a>
-          <p className="small muted">
-            External NIMH resource; service listings are primarily for the
-            United States. Use local services in your country.
-          </p>
         </section>
       </div>
     </>
